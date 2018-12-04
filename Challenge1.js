@@ -3,11 +3,11 @@ let mass;
 
 let isTrue;
 
-let johnHeight = prompt("What is John's height?" + height);
-let johnMass = prompt("What is John's weight?" + mass);
+let johnHeight =55;
+let johnMass = 150;
 
-let markHeight = prompt("What is Mark's height?" + height);
-let markMass = prompt("What is Mark's weight?" + mass);
+let markHeight = 88;
+let markMass = 189;
 
 let johnBMI = johnMass / (johnHeight^2);
 let markBMI = markMass / (markHeight^2);
