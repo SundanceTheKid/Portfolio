@@ -1,0 +1,18 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "This is my portfolio",
+  "main": "Challenge1.js",
+  "scripts": {
+"start": "node Challenge1.js"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SundanceTheKid/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SundanceTheKid/Portfolio/issues"
+  },
+  "homepage": "https://github.com/SundanceTheKid/Portfolio#readme"
+}
